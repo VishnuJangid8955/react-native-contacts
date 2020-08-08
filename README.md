@@ -144,7 +144,7 @@ The `READ_CONTACTS` permission must be added to your main application's `Android
 Add `READ_PROFILE` and/or `WRITE_PROFILE` permissions to `AndroidManifest.xml`
 ```xml
 ...
-<uses-permission android:name="android.permission.READ_PROFILE" />
+<uses-permission android:name="android.permission.READ_CONTACTS" />
 ...
 ```
 
